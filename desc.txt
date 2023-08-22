@@ -10,3 +10,4 @@
 8. Чтобы создать папку нужна команда mkdir new-dir # создали директорию
 9. Команда CP (англ. copy - копировать) cp index.html src # скопировали index.html в папку src
 10. Перемещение файлов и папок с помощью команда mv. mv table.txt ./very-important-files
+11. Чтобы создать файл в репозитории нужна команда touch, touch file.txt
